@@ -19,7 +19,7 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 Para instalar as dependências do projeto, execute o seguinte comando:
 
 
-```npm install```
+```npm install firebase @angular/fire```
 
 
 ## Configuração do Firebase
@@ -27,8 +27,6 @@ Para instalar as dependências do projeto, execute o seguinte comando:
 
 Para configurar o Firebase, siga estas etapas:
 
-
-```npm install firebase @angular/fire```
 
 
 1. Crie um novo projeto no Firebase Console.
